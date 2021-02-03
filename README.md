@@ -7,5 +7,5 @@
 | 专利 | 一种基于多层次生成对抗网络的图像超分辨方法 | 2020/01 | 已提交专利局 | 基于[论文]图像超分辨 | NP20192102 |
 | 论文 | 图像超分辨 | 2019/07至2019/11 | 已发表 | Hierarchical Generative Adversarial Networks for Single Image Super-Resolution - WACV 2021 | [调研报告](https://confluence.leihuo.netease.com/pages/viewpage.action?pageId=24014629)<br>[实验记录](https://confluence.leihuo.netease.com/pages/viewpage.action?pageId=27639399)<br>[Overleaf](https://www.overleaf.com/read/xfpfgvvqkkkp) |
 | 论文 | 快速超分辨 | 2019/11至2020/03 | 暂停 | | [调研报告](FastAccurateLightweight.md)<br>[实验记录](https://confluence.leihuo.netease.com/pages/viewpage.action?pageId=34194235)<br>[Overleaf](https://www.overleaf.com/read/yqcqcgjfvyfq) |
-| 论文 | 人体重建 | 2020/11至2020/03 | 进行中 | ICCV 2021 | |
+| 论文 | 人体重建 | 2020/11至2021/03 | 进行中 | ICCV 2021 | |
 | 比赛 | AI-in-RTC图像超分辨质量挑战赛 | 2019/07至2019/10 | 优秀奖 | 由声网Agora公司主办 | [新闻](https://mp.weixin.qq.com/s/HA36s88S5PsUxjzhHkYKiQ) |
