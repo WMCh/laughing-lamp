@@ -1,4 +1,4 @@
-# laughing-lamp
+# 项目经历
 
 | 分类 | 名称 | 时间 | 状态 | 简介 | 相关链接 |
 | :------: | ------ | :------: | :------: | ------ | ------ |
@@ -11,5 +11,15 @@
 | 发明专利 | 模型训练、帧图像生成、插帧方法、装置、设备及介质 | 2023/07/25 | 已授权 | 基于[项目]视频插帧 | CN111898701B |
 | 发明专利 | 一种旋转目标检测方法、装置、设备及存储介质 | 2023/06/09 | 已公开 | 基于[项目]鱼眼旋转目标检测 | CN116246055A |
 | 发明专利 | 一种关键点检测模型训练方法及关键点检测方法 | 2023/06/23 | 已公开 | 基于[项目]鱼眼旋转目标检测 | CN116310633A |
-| 论文 | 图像超分辨 | 2019/07至2019/11 | 已发表 | Hierarchical Generative Adversarial Networks for Single Image Super-Resolution - WACV 2021 | [调研报告](https://confluence.leihuo.netease.com/pages/viewpage.action?pageId=24014629)<br>[实验记录](https://confluence.leihuo.netease.com/pages/viewpage.action?pageId=27639399)<br>[Overleaf](https://www.overleaf.com/read/xfpfgvvqkkkp) |
+| 论文 | 图像超分辨 | 2019/07至2019/11 | 已发表 | Hierarchical Generative Adversarial Networks for Single Image Super-Resolution - WACV 2021 | Citation: 12 (until 2023/12/20)<br>[Overleaf](https://www.overleaf.com/read/xfpfgvvqkkkp) |
+| 论文 | 图像超分辨 | 2018/02至2018/06 | 已发表 | Weighted Quantization and Hamming Search for Fast Image Super-Resolution - ICDM Workshops 2018 | |
 | 比赛 | AI-in-RTC图像超分辨质量挑战赛 | 2019/07至2019/10 | 优秀奖 | 由声网Agora公司主办 | [新闻](https://mp.weixin.qq.com/s/HA36s88S5PsUxjzhHkYKiQ) |
+
+# 个人主页
+Google Scholar: [f1EvNTwAAAAJ](https://scholar.google.com/citations?hl=zh-CN&user=f1EvNTwAAAAJ)
+
+dblp: [35/966-2](https://dblp.org/pid/35/966-2.html)
+
+Semantic Scholar: [50503989](https://www.semanticscholar.org/author/Weimin-Chen/50503989)
+
+ORCiD ID: [0000-0002-4839-5043](https://orcid.org/0000-0002-4839-5043)
