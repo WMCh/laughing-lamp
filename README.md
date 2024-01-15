@@ -11,6 +11,7 @@
 | 发明专利 | 模型训练、帧图像生成、插帧方法、装置、设备及介质 | 2023/07/25 | 已授权 | 基于[项目]视频插帧 | CN111898701B |
 | 发明专利 | 一种旋转目标检测方法、装置、设备及存储介质 | 2023/06/09 | 已公开 | 基于[项目]鱼眼旋转目标检测 | CN116246055A |
 | 发明专利 | 一种关键点检测模型训练方法及关键点检测方法 | 2023/06/23 | 已公开 | 基于[项目]鱼眼旋转目标检测 | CN116310633A |
+| 发明专利 | 基于鱼眼相机的目标检测方法、装置、设备及存储介质 | 2023/12/20 | 已申请 | 基于[项目]鱼眼BEV障碍物检测 |  |
 | 论文 | 图像超分辨 | 2019/07至2019/11 | 已发表 | Hierarchical Generative Adversarial Networks for Single Image Super-Resolution - WACV 2021 | Citation: 12 (until 2023/12/20)<br>[Overleaf](https://www.overleaf.com/read/xfpfgvvqkkkp) |
 | 论文 | 图像超分辨 | 2018/02至2018/06 | 已发表 | Weighted Quantization and Hamming Search for Fast Image Super-Resolution - ICDM Workshops 2018 | |
 | 比赛 | AI-in-RTC图像超分辨质量挑战赛 | 2019/07至2019/10 | 优秀奖 | 由声网Agora公司主办 | [新闻](https://mp.weixin.qq.com/s/HA36s88S5PsUxjzhHkYKiQ) |
